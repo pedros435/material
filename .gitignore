@@ -6,3 +6,4 @@ build/
 node_modules/
 tmp/
 .pytest_cache/
+*.tmp
