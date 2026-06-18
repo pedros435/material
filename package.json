@@ -1,6 +1,6 @@
 {
   "name": "material",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "material is a library of web components that helps build beautiful and accessible web applications. It uses Material 3, the latest version of Google's open-source design system.",
   "main": "src/index.js",
   "scripts": {
